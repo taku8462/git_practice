@@ -5,5 +5,3 @@ c = 1
 a = b + c
 
 print(a)
-
-print(d)
